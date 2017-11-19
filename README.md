@@ -1,1 +1,1 @@
-# scala-examples
+# actor-examples
